@@ -1,16 +1,43 @@
-## Hi there 👋
+# `> murbatista.exe` 💻
 
-<!--
-**murbatista/murbatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+USER: murbatista
+FOCUS: Software Engineering
+STATUS: Always learning...
+```
 
-Here are some ideas to get you started:
+### `> Sobre mim`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+
+🐍 Aprendendo Python e lógica de programação.
+
+🚀 Objetivo: tornar-me Engenheiro de Software.
+
+### `> Tecnologias`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</p>
+
+### `> GitHub Stats`
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=murbatista&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murbatista&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages"/>
+</p>
+
+### `> Connect`
+
+🐙 [github.com/murbatista](https://github.com/murbatista)
+
+```bash
+$ keep_learning()
+$ keep_coding()
+```
+
+<p align="center">
+  <code>ACCESS GRANTED // KEEP CODING_</code>
+</p>
