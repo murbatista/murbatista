@@ -32,7 +32,7 @@ STATUS: Always learning...
 ### `> Connect`
 
 🐙 [github.com/murbatista](https://github.com/murbatista)
-
+[linkedin.com/murilo-batista-de-oliveira](https://www.linkedin.com/in/murilo-batista-de-oliveira-246ab2421)
 ```bash
 $ keep_learning()
 $ keep_coding()
