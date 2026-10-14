@@ -30,9 +30,7 @@ STATUS: Always learning...
 </p>
 
 ### `> Connect`
-
-🐙 [github.com/murbatista](https://github.com/murbatista)
-<a href="https://www.linkedin.com/in/murilo-batista-de-oliveira-246ab2421">
+<p> <a href="https://github.com/murbatista"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/murilo-batista-de-oliveira-246ab2421"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/> </a> </p>
 
 ```bash
 $ keep_learning()
